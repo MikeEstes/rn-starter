@@ -1,4 +1,4 @@
-// Import Dependancies
+// Import Dependencies
 import React from 'react';
 import { FlatList, Text, StyleSheet, View } from 'react-native';
 
