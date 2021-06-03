@@ -26,10 +26,9 @@ const ListScreen = () => {
                         {item.name} - Age {item.age}
                     </Text>
                 );
-            }} 
+            }}
         />
     );
-
 };
 
 // Create Stylesheet
